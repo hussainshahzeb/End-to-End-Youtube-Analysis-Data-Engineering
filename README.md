@@ -1,4 +1,4 @@
-# End to ENd Data Engineering YouTube Analysis
+# End to End Data Engineering YouTube Analysis
 
 ## Overview
 
